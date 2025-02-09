@@ -1,8 +1,21 @@
-# Getting Started with Create React App
+# Humble Superhero API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+This is a simple CRUD frontend built with React to manage a list of superheroes. Each superhero has a name, a superpower, and a humility score (from 1 to 10). The data is stored in an in-memory database.
+
+To see a functional demo, visit the following link: Open [https://humble-superheroes.netlify.app](https://humble-superheroes.netlify.app/) to view the demo in your browser.
+
+Clone the repository:
+
+```sh
+git clone https://github.com/JohanPosso/humble-superheroes-frontend.git
+cd humble-superhero-frontend
+```
+
+```bash
+$ npm install
+```
 
 In the project directory, you can run:
 
